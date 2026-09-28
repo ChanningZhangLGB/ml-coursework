@@ -1,0 +1,459 @@
+Results for S=3_spacing=0.5σ_clusters=2:
+  KMeans Clustering:
+    Homogeneity: 0.45
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.32, Standard Deviation Difference: 0.36
+      Cluster 2 - Mean Difference: 0.36, Standard Deviation Difference: 0.37
+  EM Clustering:
+    Homogeneity: 0.53
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 2.36, Standard Deviation Difference: 0.29
+      Cluster 2 - Mean Difference: 0.48, Standard Deviation Difference: 0.03
+
+Results for S=3_spacing=0.5σ_clusters=3:
+  KMeans Clustering:
+    Homogeneity: 0.44
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.86, Standard Deviation Difference: 0.43
+      Cluster 2 - Mean Difference: 0.95, Standard Deviation Difference: 0.45
+      Cluster 3 - Mean Difference: 0.59, Standard Deviation Difference: 0.44
+  EM Clustering:
+    Homogeneity: 0.48
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.51, Standard Deviation Difference: 0.30
+      Cluster 2 - Mean Difference: 1.67, Standard Deviation Difference: 0.61
+      Cluster 3 - Mean Difference: 0.73, Standard Deviation Difference: 0.21
+
+Results for S=3_spacing=0.5σ_clusters=6:
+  KMeans Clustering:
+    Homogeneity: 0.46
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.07, Standard Deviation Difference: 0.86
+      Cluster 2 - Mean Difference: 1.36, Standard Deviation Difference: 0.60
+      Cluster 3 - Mean Difference: 1.15, Standard Deviation Difference: 0.62
+      Cluster 4 - Mean Difference: 1.37, Standard Deviation Difference: 0.66
+      Cluster 5 - Mean Difference: 0.98, Standard Deviation Difference: 0.62
+      Cluster 6 - Mean Difference: 1.12, Standard Deviation Difference: 0.62
+  EM Clustering:
+    Homogeneity: 0.48
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 2.03, Standard Deviation Difference: 0.96
+      Cluster 2 - Mean Difference: 1.41, Standard Deviation Difference: 0.65
+      Cluster 3 - Mean Difference: 1.41, Standard Deviation Difference: 0.45
+      Cluster 4 - Mean Difference: 0.63, Standard Deviation Difference: 0.58
+      Cluster 5 - Mean Difference: 0.33, Standard Deviation Difference: 0.61
+      Cluster 6 - Mean Difference: 2.26, Standard Deviation Difference: 0.70
+
+Results for S=3_spacing=0.5σ_clusters=8:
+  KMeans Clustering:
+    Homogeneity: 0.48
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.58, Standard Deviation Difference: 0.68
+      Cluster 2 - Mean Difference: 1.21, Standard Deviation Difference: 0.65
+      Cluster 3 - Mean Difference: 1.11, Standard Deviation Difference: 0.71
+      Cluster 4 - Mean Difference: 1.20, Standard Deviation Difference: 0.71
+      Cluster 5 - Mean Difference: 0.25, Standard Deviation Difference: 0.92
+      Cluster 6 - Mean Difference: 0.33, Standard Deviation Difference: 0.92
+      Cluster 7 - Mean Difference: 1.55, Standard Deviation Difference: 0.72
+      Cluster 8 - Mean Difference: 1.29, Standard Deviation Difference: 0.64
+  EM Clustering:
+    Homogeneity: 0.44
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.02, Standard Deviation Difference: 0.69
+      Cluster 2 - Mean Difference: 0.40, Standard Deviation Difference: 0.70
+      Cluster 3 - Mean Difference: 1.19, Standard Deviation Difference: 0.58
+      Cluster 4 - Mean Difference: 0.30, Standard Deviation Difference: 0.93
+      Cluster 5 - Mean Difference: 1.19, Standard Deviation Difference: 0.81
+      Cluster 6 - Mean Difference: 1.62, Standard Deviation Difference: 0.51
+      Cluster 7 - Mean Difference: 1.93, Standard Deviation Difference: 0.88
+      Cluster 8 - Mean Difference: 1.93, Standard Deviation Difference: 0.78
+
+Results for S=3_spacing=1σ_clusters=2:
+  KMeans Clustering:
+    Homogeneity: 0.56
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.04, Standard Deviation Difference: 0.25
+      Cluster 2 - Mean Difference: 0.05, Standard Deviation Difference: 0.27
+  EM Clustering:
+    Homogeneity: 0.57
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.36, Standard Deviation Difference: 0.12
+      Cluster 2 - Mean Difference: 0.45, Standard Deviation Difference: 0.39
+
+Results for S=3_spacing=1σ_clusters=3:
+  KMeans Clustering:
+    Homogeneity: 0.53
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.63, Standard Deviation Difference: 0.31
+      Cluster 2 - Mean Difference: 0.35, Standard Deviation Difference: 0.32
+      Cluster 3 - Mean Difference: 1.02, Standard Deviation Difference: 0.41
+  EM Clustering:
+    Homogeneity: 0.50
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.68, Standard Deviation Difference: 0.49
+      Cluster 2 - Mean Difference: 0.16, Standard Deviation Difference: 0.34
+      Cluster 3 - Mean Difference: 0.30, Standard Deviation Difference: 0.18
+
+Results for S=3_spacing=1σ_clusters=6:
+  KMeans Clustering:
+    Homogeneity: 0.57
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.37, Standard Deviation Difference: 0.59
+      Cluster 2 - Mean Difference: 0.94, Standard Deviation Difference: 0.58
+      Cluster 3 - Mean Difference: 0.96, Standard Deviation Difference: 0.55
+      Cluster 4 - Mean Difference: 0.01, Standard Deviation Difference: 0.82
+      Cluster 5 - Mean Difference: 0.78, Standard Deviation Difference: 0.54
+      Cluster 6 - Mean Difference: 1.44, Standard Deviation Difference: 0.58
+  EM Clustering:
+    Homogeneity: 0.54
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.41, Standard Deviation Difference: 0.48
+      Cluster 2 - Mean Difference: 0.04, Standard Deviation Difference: 0.50
+      Cluster 3 - Mean Difference: 0.38, Standard Deviation Difference: 0.38
+      Cluster 4 - Mean Difference: 0.53, Standard Deviation Difference: 0.60
+      Cluster 5 - Mean Difference: 1.56, Standard Deviation Difference: 0.49
+
+Results for S=3_spacing=1σ_clusters=8:
+  KMeans Clustering:
+    Homogeneity: 0.58
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.34, Standard Deviation Difference: 0.63
+      Cluster 2 - Mean Difference: 1.28, Standard Deviation Difference: 0.67
+      Cluster 3 - Mean Difference: 0.41, Standard Deviation Difference: 0.88
+      Cluster 4 - Mean Difference: 0.49, Standard Deviation Difference: 0.87
+      Cluster 5 - Mean Difference: 1.11, Standard Deviation Difference: 0.59
+      Cluster 6 - Mean Difference: 1.07, Standard Deviation Difference: 0.59
+      Cluster 7 - Mean Difference: 1.38, Standard Deviation Difference: 0.65
+      Cluster 8 - Mean Difference: 1.37, Standard Deviation Difference: 0.69
+  EM Clustering:
+    Homogeneity: 0.52
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.73, Standard Deviation Difference: 0.55
+      Cluster 2 - Mean Difference: 1.75, Standard Deviation Difference: 0.57
+      Cluster 3 - Mean Difference: 1.27, Standard Deviation Difference: 0.67
+      Cluster 4 - Mean Difference: 0.55, Standard Deviation Difference: 0.40
+      Cluster 5 - Mean Difference: 0.50, Standard Deviation Difference: 0.39
+
+Results for S=3_spacing=1.5σ_clusters=2:
+  KMeans Clustering:
+    Homogeneity: 0.62
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.20, Standard Deviation Difference: 0.15
+      Cluster 2 - Mean Difference: 0.24, Standard Deviation Difference: 0.12
+  EM Clustering:
+    Homogeneity: 0.62
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.17, Standard Deviation Difference: 0.16
+      Cluster 2 - Mean Difference: 0.27, Standard Deviation Difference: 0.11
+
+Results for S=3_spacing=1.5σ_clusters=3:
+  KMeans Clustering:
+    Homogeneity: 0.60
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.09, Standard Deviation Difference: 0.19
+      Cluster 2 - Mean Difference: 0.85, Standard Deviation Difference: 0.36
+      Cluster 3 - Mean Difference: 1.02, Standard Deviation Difference: 0.38
+  EM Clustering:
+    Homogeneity: 0.66
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.29, Standard Deviation Difference: 0.35
+      Cluster 2 - Mean Difference: 0.53, Standard Deviation Difference: 0.29
+      Cluster 3 - Mean Difference: 0.19, Standard Deviation Difference: 0.17
+
+Results for S=3_spacing=1.5σ_clusters=6:
+  KMeans Clustering:
+    Homogeneity: 0.67
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.37, Standard Deviation Difference: 0.74
+      Cluster 2 - Mean Difference: 1.02, Standard Deviation Difference: 0.48
+      Cluster 3 - Mean Difference: 1.32, Standard Deviation Difference: 0.52
+      Cluster 4 - Mean Difference: 1.13, Standard Deviation Difference: 0.54
+      Cluster 5 - Mean Difference: 0.88, Standard Deviation Difference: 0.50
+      Cluster 6 - Mean Difference: 0.86, Standard Deviation Difference: 0.50
+  EM Clustering:
+    Homogeneity: 0.58
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.12, Standard Deviation Difference: 0.22
+      Cluster 2 - Mean Difference: 0.65, Standard Deviation Difference: 0.66
+      Cluster 3 - Mean Difference: 2.58, Standard Deviation Difference: 0.48
+      Cluster 4 - Mean Difference: 0.55, Standard Deviation Difference: 0.68
+      Cluster 5 - Mean Difference: 1.30, Standard Deviation Difference: 0.50
+      Cluster 6 - Mean Difference: 1.04, Standard Deviation Difference: 0.55
+
+Results for S=3_spacing=1.5σ_clusters=8:
+  KMeans Clustering:
+    Homogeneity: 0.67
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.02, Standard Deviation Difference: 0.57
+      Cluster 2 - Mean Difference: 1.09, Standard Deviation Difference: 0.57
+      Cluster 3 - Mean Difference: 1.41, Standard Deviation Difference: 0.62
+      Cluster 4 - Mean Difference: 0.70, Standard Deviation Difference: 0.82
+      Cluster 5 - Mean Difference: 1.38, Standard Deviation Difference: 0.60
+      Cluster 6 - Mean Difference: 1.01, Standard Deviation Difference: 0.54
+      Cluster 7 - Mean Difference: 1.04, Standard Deviation Difference: 0.56
+      Cluster 8 - Mean Difference: 0.70, Standard Deviation Difference: 0.84
+  EM Clustering:
+    Homogeneity: 0.65
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.63, Standard Deviation Difference: 0.66
+      Cluster 2 - Mean Difference: 1.08, Standard Deviation Difference: 0.53
+      Cluster 3 - Mean Difference: 1.76, Standard Deviation Difference: 0.58
+      Cluster 4 - Mean Difference: 0.71, Standard Deviation Difference: 0.50
+      Cluster 5 - Mean Difference: 1.70, Standard Deviation Difference: 0.79
+      Cluster 6 - Mean Difference: 0.69, Standard Deviation Difference: 0.70
+      Cluster 7 - Mean Difference: 1.86, Standard Deviation Difference: 0.59
+      Cluster 8 - Mean Difference: 0.34, Standard Deviation Difference: 0.55
+
+Results for S=3_spacing=2σ_clusters=2:
+  KMeans Clustering:
+    Homogeneity: 0.65
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.43, Standard Deviation Difference: 0.03
+      Cluster 2 - Mean Difference: 0.40, Standard Deviation Difference: 0.01
+  EM Clustering:
+    Homogeneity: 0.46
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.45, Standard Deviation Difference: 0.77
+      Cluster 2 - Mean Difference: 1.47, Standard Deviation Difference: 0.80
+
+Results for S=3_spacing=2σ_clusters=3:
+  KMeans Clustering:
+    Homogeneity: 0.79
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.21, Standard Deviation Difference: 0.24
+      Cluster 2 - Mean Difference: 0.04, Standard Deviation Difference: 0.38
+      Cluster 3 - Mean Difference: 0.16, Standard Deviation Difference: 0.25
+  EM Clustering:
+    Homogeneity: 0.74
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.19, Standard Deviation Difference: 0.15
+      Cluster 2 - Mean Difference: 0.51, Standard Deviation Difference: 0.38
+      Cluster 3 - Mean Difference: 0.19, Standard Deviation Difference: 0.10
+
+Results for S=3_spacing=2σ_clusters=6:
+  KMeans Clustering:
+    Homogeneity: 0.74
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.13, Standard Deviation Difference: 0.48
+      Cluster 2 - Mean Difference: 1.23, Standard Deviation Difference: 0.48
+      Cluster 3 - Mean Difference: 0.79, Standard Deviation Difference: 0.59
+      Cluster 4 - Mean Difference: 0.68, Standard Deviation Difference: 0.43
+      Cluster 5 - Mean Difference: 0.75, Standard Deviation Difference: 0.43
+      Cluster 6 - Mean Difference: 1.11, Standard Deviation Difference: 0.54
+  EM Clustering:
+    Homogeneity: 0.70
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.15, Standard Deviation Difference: 0.64
+      Cluster 2 - Mean Difference: 0.67, Standard Deviation Difference: 0.43
+      Cluster 3 - Mean Difference: 2.80, Standard Deviation Difference: 1.40
+      Cluster 4 - Mean Difference: 0.36, Standard Deviation Difference: 0.26
+      Cluster 5 - Mean Difference: 0.95, Standard Deviation Difference: 0.30
+      Cluster 6 - Mean Difference: 1.18, Standard Deviation Difference: 0.43
+
+Results for S=3_spacing=2σ_clusters=8:
+  KMeans Clustering:
+    Homogeneity: 0.76
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.89, Standard Deviation Difference: 0.48
+      Cluster 2 - Mean Difference: 1.09, Standard Deviation Difference: 0.63
+      Cluster 3 - Mean Difference: 1.25, Standard Deviation Difference: 0.59
+      Cluster 4 - Mean Difference: 0.63, Standard Deviation Difference: 0.78
+      Cluster 5 - Mean Difference: 0.99, Standard Deviation Difference: 0.56
+      Cluster 6 - Mean Difference: 0.91, Standard Deviation Difference: 0.55
+      Cluster 7 - Mean Difference: 1.04, Standard Deviation Difference: 0.58
+      Cluster 8 - Mean Difference: 1.34, Standard Deviation Difference: 0.57
+  EM Clustering:
+    Homogeneity: 0.76
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.06, Standard Deviation Difference: 0.72
+      Cluster 2 - Mean Difference: 1.56, Standard Deviation Difference: 0.39
+      Cluster 3 - Mean Difference: 1.15, Standard Deviation Difference: 0.84
+      Cluster 4 - Mean Difference: 0.73, Standard Deviation Difference: 0.31
+      Cluster 5 - Mean Difference: 0.47, Standard Deviation Difference: 0.52
+      Cluster 6 - Mean Difference: 0.40, Standard Deviation Difference: 0.59
+      Cluster 7 - Mean Difference: 1.41, Standard Deviation Difference: 0.31
+      Cluster 8 - Mean Difference: 1.39, Standard Deviation Difference: 0.42
+
+Results for S=5_spacing=0.5σ_clusters=5:
+  KMeans Clustering:
+    Homogeneity: 0.35
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.92, Standard Deviation Difference: 0.53
+      Cluster 2 - Mean Difference: 1.02, Standard Deviation Difference: 0.61
+      Cluster 3 - Mean Difference: 0.73, Standard Deviation Difference: 0.58
+      Cluster 4 - Mean Difference: 0.79, Standard Deviation Difference: 0.48
+      Cluster 5 - Mean Difference: 0.84, Standard Deviation Difference: 0.62
+  EM Clustering:
+    Homogeneity: 0.36
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.55, Standard Deviation Difference: 0.58
+      Cluster 2 - Mean Difference: 0.32, Standard Deviation Difference: 0.49
+      Cluster 3 - Mean Difference: 2.28, Standard Deviation Difference: 0.65
+      Cluster 4 - Mean Difference: 0.44, Standard Deviation Difference: 0.51
+      Cluster 5 - Mean Difference: 1.09, Standard Deviation Difference: 0.53
+
+Results for S=5_spacing=1σ_clusters=5:
+  KMeans Clustering:
+    Homogeneity: 0.46
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.57, Standard Deviation Difference: 0.36
+      Cluster 2 - Mean Difference: 0.43, Standard Deviation Difference: 0.36
+      Cluster 3 - Mean Difference: 0.80, Standard Deviation Difference: 0.51
+      Cluster 4 - Mean Difference: 0.92, Standard Deviation Difference: 0.47
+      Cluster 5 - Mean Difference: 0.86, Standard Deviation Difference: 0.50
+  EM Clustering:
+    Homogeneity: 0.41
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.28, Standard Deviation Difference: 0.39
+      Cluster 2 - Mean Difference: 1.11, Standard Deviation Difference: 0.42
+      Cluster 3 - Mean Difference: 0.47, Standard Deviation Difference: 0.31
+      Cluster 4 - Mean Difference: 0.31, Standard Deviation Difference: 0.50
+      Cluster 5 - Mean Difference: 1.36, Standard Deviation Difference: 0.50
+
+Results for S=5_spacing=1.5σ_clusters=5:
+  KMeans Clustering:
+    Homogeneity: 0.58
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.54, Standard Deviation Difference: 0.43
+      Cluster 2 - Mean Difference: 1.01, Standard Deviation Difference: 0.40
+      Cluster 3 - Mean Difference: 0.24, Standard Deviation Difference: 0.25
+      Cluster 4 - Mean Difference: 0.26, Standard Deviation Difference: 0.25
+      Cluster 5 - Mean Difference: 0.79, Standard Deviation Difference: 0.42
+  EM Clustering:
+    Homogeneity: 0.49
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.76, Standard Deviation Difference: 0.13
+      Cluster 2 - Mean Difference: 1.46, Standard Deviation Difference: 0.53
+      Cluster 3 - Mean Difference: 0.63, Standard Deviation Difference: 0.21
+      Cluster 4 - Mean Difference: 0.58, Standard Deviation Difference: 0.19
+
+Results for S=5_spacing=2σ_clusters=5:
+  KMeans Clustering:
+    Homogeneity: 0.74
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.09, Standard Deviation Difference: 0.39
+      Cluster 2 - Mean Difference: 0.22, Standard Deviation Difference: 0.38
+      Cluster 3 - Mean Difference: 0.27, Standard Deviation Difference: 0.25
+      Cluster 4 - Mean Difference: 0.11, Standard Deviation Difference: 0.38
+      Cluster 5 - Mean Difference: 0.22, Standard Deviation Difference: 0.26
+  EM Clustering:
+    Homogeneity: 0.55
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.09, Standard Deviation Difference: 0.12
+      Cluster 2 - Mean Difference: 1.09, Standard Deviation Difference: 0.61
+      Cluster 3 - Mean Difference: 0.42, Standard Deviation Difference: 0.02
+      Cluster 4 - Mean Difference: 0.59, Standard Deviation Difference: 0.38
+      Cluster 5 - Mean Difference: 2.46, Standard Deviation Difference: 0.77
+
+Results for S=10_spacing=0.5σ_clusters=10:
+  KMeans Clustering:
+    Homogeneity: 0.28
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.86, Standard Deviation Difference: 0.56
+      Cluster 2 - Mean Difference: 1.22, Standard Deviation Difference: 0.67
+      Cluster 3 - Mean Difference: 1.40, Standard Deviation Difference: 0.62
+      Cluster 4 - Mean Difference: 1.18, Standard Deviation Difference: 0.69
+      Cluster 5 - Mean Difference: 0.74, Standard Deviation Difference: 0.59
+      Cluster 6 - Mean Difference: 0.40, Standard Deviation Difference: 0.87
+      Cluster 7 - Mean Difference: 0.37, Standard Deviation Difference: 0.84
+      Cluster 8 - Mean Difference: 1.03, Standard Deviation Difference: 0.51
+      Cluster 9 - Mean Difference: 1.20, Standard Deviation Difference: 0.55
+      Cluster 10 - Mean Difference: 0.59, Standard Deviation Difference: 0.76
+  EM Clustering:
+    Homogeneity: 0.25
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.83, Standard Deviation Difference: 0.86
+      Cluster 2 - Mean Difference: 1.20, Standard Deviation Difference: 0.45
+      Cluster 3 - Mean Difference: 0.36, Standard Deviation Difference: 0.33
+      Cluster 4 - Mean Difference: 1.62, Standard Deviation Difference: 0.56
+      Cluster 5 - Mean Difference: 0.45, Standard Deviation Difference: 0.83
+      Cluster 6 - Mean Difference: 1.74, Standard Deviation Difference: 0.58
+      Cluster 7 - Mean Difference: 1.00, Standard Deviation Difference: 0.85
+      Cluster 8 - Mean Difference: 0.17, Standard Deviation Difference: 0.46
+      Cluster 9 - Mean Difference: 2.18, Standard Deviation Difference: 0.91
+      Cluster 10 - Mean Difference: 1.86, Standard Deviation Difference: 0.65
+
+Results for S=10_spacing=1σ_clusters=10:
+  KMeans Clustering:
+    Homogeneity: 0.42
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.76, Standard Deviation Difference: 0.59
+      Cluster 2 - Mean Difference: 0.61, Standard Deviation Difference: 0.59
+      Cluster 3 - Mean Difference: 0.82, Standard Deviation Difference: 0.58
+      Cluster 4 - Mean Difference: 0.84, Standard Deviation Difference: 0.53
+      Cluster 5 - Mean Difference: 0.55, Standard Deviation Difference: 0.36
+      Cluster 6 - Mean Difference: 1.02, Standard Deviation Difference: 0.48
+      Cluster 7 - Mean Difference: 0.84, Standard Deviation Difference: 0.57
+      Cluster 8 - Mean Difference: 0.86, Standard Deviation Difference: 0.56
+      Cluster 9 - Mean Difference: 0.65, Standard Deviation Difference: 0.41
+      Cluster 10 - Mean Difference: 0.89, Standard Deviation Difference: 0.52
+  EM Clustering:
+    Homogeneity: 0.34
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.65, Standard Deviation Difference: 0.92
+      Cluster 2 - Mean Difference: 0.75, Standard Deviation Difference: 0.46
+      Cluster 3 - Mean Difference: 1.61, Standard Deviation Difference: 0.53
+      Cluster 4 - Mean Difference: 0.88, Standard Deviation Difference: 0.45
+      Cluster 5 - Mean Difference: 0.57, Standard Deviation Difference: 0.19
+      Cluster 6 - Mean Difference: 1.58, Standard Deviation Difference: 0.51
+      Cluster 7 - Mean Difference: 0.45, Standard Deviation Difference: 0.25
+      Cluster 8 - Mean Difference: 2.11, Standard Deviation Difference: 0.51
+      Cluster 9 - Mean Difference: 0.44, Standard Deviation Difference: 0.66
+      Cluster 10 - Mean Difference: 1.12, Standard Deviation Difference: 0.53
+
+Results for S=10_spacing=1.5σ_clusters=10:
+  KMeans Clustering:
+    Homogeneity: 0.49
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.08, Standard Deviation Difference: 0.20
+      Cluster 2 - Mean Difference: 1.10, Standard Deviation Difference: 0.40
+      Cluster 3 - Mean Difference: 0.98, Standard Deviation Difference: 0.37
+      Cluster 4 - Mean Difference: 1.06, Standard Deviation Difference: 0.42
+      Cluster 5 - Mean Difference: 0.42, Standard Deviation Difference: 0.26
+      Cluster 6 - Mean Difference: 0.67, Standard Deviation Difference: 0.43
+      Cluster 7 - Mean Difference: 0.59, Standard Deviation Difference: 0.38
+      Cluster 8 - Mean Difference: 1.01, Standard Deviation Difference: 0.44
+      Cluster 9 - Mean Difference: 0.88, Standard Deviation Difference: 0.43
+      Cluster 10 - Mean Difference: 0.73, Standard Deviation Difference: 0.44
+  EM Clustering:
+    Homogeneity: 0.44
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 1.40, Standard Deviation Difference: 0.55
+      Cluster 2 - Mean Difference: 2.25, Standard Deviation Difference: 0.53
+      Cluster 3 - Mean Difference: 0.47, Standard Deviation Difference: 0.04
+      Cluster 4 - Mean Difference: 0.73, Standard Deviation Difference: 0.61
+      Cluster 5 - Mean Difference: 0.29, Standard Deviation Difference: 0.34
+      Cluster 6 - Mean Difference: 0.84, Standard Deviation Difference: 0.47
+      Cluster 7 - Mean Difference: 0.43, Standard Deviation Difference: 0.47
+      Cluster 8 - Mean Difference: 0.83, Standard Deviation Difference: 0.63
+      Cluster 9 - Mean Difference: 1.92, Standard Deviation Difference: 0.72
+      Cluster 10 - Mean Difference: 0.42, Standard Deviation Difference: 0.06
+
+Results for S=10_spacing=2σ_clusters=10:
+  KMeans Clustering:
+    Homogeneity: 0.62
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.87, Standard Deviation Difference: 0.32
+      Cluster 2 - Mean Difference: 0.49, Standard Deviation Difference: 0.33
+      Cluster 3 - Mean Difference: 0.62, Standard Deviation Difference: 0.35
+      Cluster 4 - Mean Difference: 1.14, Standard Deviation Difference: 0.36
+      Cluster 5 - Mean Difference: 0.48, Standard Deviation Difference: 0.30
+      Cluster 6 - Mean Difference: 1.05, Standard Deviation Difference: 0.37
+      Cluster 7 - Mean Difference: 0.25, Standard Deviation Difference: 0.21
+      Cluster 8 - Mean Difference: 0.57, Standard Deviation Difference: 0.39
+      Cluster 9 - Mean Difference: 0.05, Standard Deviation Difference: 0.14
+      Cluster 10 - Mean Difference: 0.74, Standard Deviation Difference: 0.31
+  EM Clustering:
+    Homogeneity: 0.53
+    Parameter Differences:
+      Cluster 1 - Mean Difference: 0.40, Standard Deviation Difference: 0.24
+      Cluster 2 - Mean Difference: 1.49, Standard Deviation Difference: 1.02
+      Cluster 3 - Mean Difference: 0.43, Standard Deviation Difference: 0.27
+      Cluster 4 - Mean Difference: 0.76, Standard Deviation Difference: 0.32
+      Cluster 5 - Mean Difference: 0.28, Standard Deviation Difference: 0.93
+      Cluster 6 - Mean Difference: 1.12, Standard Deviation Difference: 0.44
+      Cluster 7 - Mean Difference: 1.51, Standard Deviation Difference: 0.45
+      Cluster 8 - Mean Difference: 1.34, Standard Deviation Difference: 0.67
+      Cluster 9 - Mean Difference: 0.55, Standard Deviation Difference: 0.28
+      Cluster 10 - Mean Difference: 0.45, Standard Deviation Difference: 0.03
+

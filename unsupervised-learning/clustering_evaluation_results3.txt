@@ -1,0 +1,18 @@
+Results for S=5_spacing=1.25_clusters=5:
+  KMeans Clustering:
+    Homogeneity: 0.44
+    Parameter Differences:
+      Mean Difference: 1.31, Std Dev Difference: 0.94
+      Mean Difference: 1.30, Std Dev Difference: 0.47
+      Mean Difference: 0.51, Std Dev Difference: 0.33
+      Mean Difference: 1.51, Std Dev Difference: 0.91
+      Mean Difference: 1.63, Std Dev Difference: 1.13
+  EM Clustering:
+    Homogeneity: 0.42
+    Parameter Differences:
+      Mean Difference: 1.08, Std Dev Difference: 0.72
+      Mean Difference: 0.60, Std Dev Difference: 0.64
+      Mean Difference: 0.72, Std Dev Difference: 0.48
+      Mean Difference: 1.43, Std Dev Difference: 0.76
+      Mean Difference: 2.48, Std Dev Difference: 0.83
+

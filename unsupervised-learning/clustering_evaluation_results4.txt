@@ -1,0 +1,54 @@
+Results for S=5_spacing=1.25_sigma=0.75_N=100_clusters=5:
+KMeans Clustering:
+  Homogeneity: 0.65
+  Parameter Differences:
+    Mean Difference: 0.68, Std Dev Difference: 0.26
+    Mean Difference: 0.34, Std Dev Difference: 0.27
+    Mean Difference: 0.17, Std Dev Difference: 0.21
+    Mean Difference: 0.79, Std Dev Difference: 0.24
+    Mean Difference: 0.34, Std Dev Difference: 0.19
+EM Clustering:
+  Homogeneity: 0.56
+  Parameter Differences:
+    Mean Difference: 0.29, Std Dev Difference: 0.08
+    Mean Difference: 0.41, Std Dev Difference: 0.11
+    Mean Difference: 0.41, Std Dev Difference: 0.32
+    Mean Difference: 0.18, Std Dev Difference: 0.12
+    Mean Difference: 1.06, Std Dev Difference: 0.45
+
+Results for S=5_spacing=1.25_sigma=0.75_N=1000_clusters=5:
+KMeans Clustering:
+  Homogeneity: 0.61
+  Parameter Differences:
+    Mean Difference: 0.60, Std Dev Difference: 0.29
+    Mean Difference: 0.77, Std Dev Difference: 0.29
+    Mean Difference: 0.39, Std Dev Difference: 0.28
+    Mean Difference: 0.18, Std Dev Difference: 0.17
+    Mean Difference: 0.13, Std Dev Difference: 0.16
+EM Clustering:
+  Homogeneity: 0.61
+  Parameter Differences:
+    Mean Difference: 1.04, Std Dev Difference: 0.48
+    Mean Difference: 0.08, Std Dev Difference: 0.11
+    Mean Difference: 0.18, Std Dev Difference: 0.25
+    Mean Difference: 0.32, Std Dev Difference: 0.48
+    Mean Difference: 0.44, Std Dev Difference: 0.06
+
+Results for S=5_spacing=1.25_sigma=0.75_N=5000_clusters=5:
+KMeans Clustering:
+  Homogeneity: 0.63
+  Parameter Differences:
+    Mean Difference: 0.57, Std Dev Difference: 0.29
+    Mean Difference: 0.30, Std Dev Difference: 0.28
+    Mean Difference: 0.73, Std Dev Difference: 0.28
+    Mean Difference: 0.16, Std Dev Difference: 0.15
+    Mean Difference: 0.16, Std Dev Difference: 0.16
+EM Clustering:
+  Homogeneity: 0.56
+  Parameter Differences:
+    Mean Difference: 0.79, Std Dev Difference: 0.46
+    Mean Difference: 0.19, Std Dev Difference: 0.06
+    Mean Difference: 0.47, Std Dev Difference: 0.31
+    Mean Difference: 0.27, Std Dev Difference: 0.01
+    Mean Difference: 0.88, Std Dev Difference: 0.38
+

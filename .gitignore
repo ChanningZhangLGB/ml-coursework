@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+evaluation_results.txt
+my_clustering_evaluation_results.txt
