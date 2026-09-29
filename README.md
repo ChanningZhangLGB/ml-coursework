@@ -13,6 +13,11 @@ The University of Tulsa (2024). Each folder is one course project and is self-co
 ## Selected results
 
 <p align="center">
+  <img src="docs/figures/mlp_training_curves.png" width="820" alt="MLP training accuracy on XOR and M-of-N">
+  <br><em>Mean training accuracy of the NumPy MLP over 10 runs on XOR and the 4-input M-of-N task (<code>neural-networks/plot_training_curves.py</code>).</em>
+</p>
+
+<p align="center">
   <img src="docs/figures/kmeans_vs_em.png" width="820" alt="k-means and EM on three Gaussian sources">
   <br><em>k-means (left) and EM for Gaussian mixtures (right) on the same three Gaussian sources; red crosses mark the fitted centers.</em>
 </p>

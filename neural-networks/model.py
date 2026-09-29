@@ -65,7 +65,8 @@ class MLP:
             error = (activations[-1] - target) * self._delsigmoid(activations[-1])
             deltas = [error]
 
-        loss = np.mean(np.sum(-target * np.log(np.clip(activations[-1], 1e-10, 1)), axis=1)) if use_softmax else np.mean(error**2)
+        loss = (np.mean(np.sum(-target * np.log(np.clip(activations[-1], 1e-10, 1)), axis=1)) if use_softmax
+                else np.mean((activations[-1] - target) ** 2))
 
         for i in reversed(range(len(self.weights) - 1)):
             if activation_type == 'relu':
@@ -96,7 +97,8 @@ class MLP:
         for epoch in range(num_epochs):
             activations = self.forward(train_data, activation_type, use_softmax)
             predictions = np.argmax(activations[-1], axis=1) if use_softmax else (activations[-1] > 0.5).astype(int)
-            accuracy = np.mean(predictions == np.argmax(target_data, axis=1) if use_softmax else target_data)
+            labels = np.argmax(target_data, axis=1) if use_softmax else target_data
+            accuracy = np.mean(predictions == labels)
             loss = self.backpropagate(activations, target_data, activation_type, use_softmax)
 
             losses.append(loss)
