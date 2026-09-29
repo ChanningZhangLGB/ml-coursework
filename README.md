@@ -1,6 +1,7 @@
 # ML Coursework
 
-Machine learning algorithms I implemented from scratch during graduate coursework at The University of Tulsa (2024). Each folder is self-contained.
+Machine learning algorithms I implemented from scratch for **CS-7003**, a graduate course at
+The University of Tulsa (2024). Each folder is one course project and is self-contained.
 
 | Folder | What's inside |
 |---|---|
