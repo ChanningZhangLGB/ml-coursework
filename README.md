@@ -14,7 +14,7 @@ The University of Tulsa (2024). Each folder is one course project and is self-co
 
 <p align="center">
   <img src="docs/figures/mlp_training_curves.png" width="820" alt="MLP training accuracy on XOR and M-of-N">
-  <br><em>Mean training accuracy of the NumPy MLP over 10 runs on XOR and the 4-input M-of-N task (<code>neural-networks/plot_training_curves.py</code>).</em>
+  <br><em>Mean training accuracy of the NumPy MLP over 10 runs on XOR and the 4-input M-of-N task.</em>
 </p>
 
 <p align="center">
